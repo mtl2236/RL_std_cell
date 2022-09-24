@@ -1,0 +1,8 @@
+NAND2X1  1
+AND2X1   2
+INVX1    1
+BUFX1    2
+OR2X1    3
+XOR2X1   4
+
+
